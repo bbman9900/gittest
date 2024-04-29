@@ -1,4 +1,8 @@
 a.txt
+<<<<<<< HEAD
 
 
 developer B
+=======
+developer A
+>>>>>>> 0f8c7af2646b2302da789d5b80105c4af4bde05c
